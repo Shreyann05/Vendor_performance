@@ -20,8 +20,8 @@ KPI	Value
 Total Sales	$441M
 Total Purchase	$307M
 Gross Profit	$134M
-Profit Margin	38.7%
-Unsold Capital	$2.7M
+Profit Margin	30.4%
+Inventory Turnover	3.0
 🔍 Analysis Performed
 1️⃣ Exploratory Data Analysis (Python)
 
@@ -83,6 +83,10 @@ Profit Margin vs Sales Scatter Analysis
 Python (Pandas, NumPy, Seaborn, Matplotlib)
 
 Statistical Analysis (t-distribution CI)
+
+
+<img width="1057" height="592" alt="image" src="https://github.com/user-attachments/assets/c63c0fbf-be84-4760-93e3-103709635866" />
+
 
 SQL
 
